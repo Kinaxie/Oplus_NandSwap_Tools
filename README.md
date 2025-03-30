@@ -30,6 +30,6 @@
 
 ### 许可证与贡献  
 - ## License
-This project is licensed under the **GNU GPLv3**.  
-See [LICENSE](LICENSE) for full terms.  
+   本项目采用 **GNU GPLv3**.  
+   有关完整条款，参阅[LICENSE](LICENSE)
 - **反馈**：提交 GitHub Issue 或邮件至 `huanying1194139625@gmail.com`  
