@@ -17,8 +17,9 @@
 ### 使用说明  
 1. **启用**：  
    ```bash
+   su
    setprop persist.sys.oplus.nandswap true
-   su -c ./Oplus_NandSwap_Tools.sh
+   oplus_nandSwap_tools.sh
    ```  
 2. **配置**：修改脚本内 `ZRAM_SIZE_GB` 调整大小。  
 
