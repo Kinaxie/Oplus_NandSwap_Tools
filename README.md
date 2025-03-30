@@ -29,5 +29,7 @@
 | 2      | 内存分配失败   | 减小 ZRAM_SIZE    |  
 
 ### 许可证与贡献  
-- **开源协议**：GPL-3.0（衍生作品需保持开源，但不阻止其商业使用）  
+- ## License
+This project is licensed under the **GNU GPLv3**.  
+See [LICENSE](LICENSE) for full terms.  
 - **反馈**：提交 GitHub Issue 或邮件至 `huanying1194139625@gmail.com`  
